@@ -1,0 +1,27 @@
+.sidebar-wrapper {
+	min-height:100vh;
+	padding: 20px 5px 0px 10px;
+}
+
+.stats-heading {
+	text-align: center;
+    margin-top: 25px;
+}
+
+.graph-wrapper{
+	height: 71%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.nav-link {
+    font-size: 25px;
+    display: block;
+    padding: 1.5rem 2rem;
+    text-align: left;
+    color: white;
+}
+.nav-link:hover {
+	color: black;
+}
